@@ -1,0 +1,38 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+html{
+height:100%;
+   width:100%;
+}
+body {
+    height:100%;
+    width:100%;
+  background: white;
+  font: 30px sans-serif;
+    
+   
+}
+
+
+.bottom {
+    position: absolute;;
+    bottom: 0;
+}
+
+#first {
+    text-align:center;
+    width:calc(100
+}
+
+#second {
+    text-align:center;
+    width:25%;
+}
+
+
+
